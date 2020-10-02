@@ -25,6 +25,12 @@ p {
     line-height:30px;
     margin-bottom:35px;
 }
+
+video
+{
+  display: block;
+ margin: 0 auto;
+}
 hr {
     border-top: 1px solid rgb(27, 106, 131);
 margin: 0px 100px 0px 100px
@@ -133,7 +139,6 @@ background-color:transparent;
 #contact label {
     padding:15px;
 }
-
 
 
 .footer {
